@@ -2,3 +2,5 @@ this is just for learning git
 
 new line added
 another line
+
+new line in new_branch
